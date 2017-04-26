@@ -1,0 +1,49 @@
+header {
+	background: #ffffff;
+	height: 90px;
+	width: auto;
+	border-bottom: 2px solid #cccccc;
+	margin: 0;
+}
+
+h1 {
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	vertical-align: middle;
+	line-height: 50px; 
+}
+
+.namebox {
+	width: 250px;
+	height: 90px;
+	background: #4aaaa5;
+	position: fixed;
+	left: 100px;
+	text-align: center;
+	margin: 0;
+}
+
+nav {
+	position: fixed;
+	text-decoration: none;
+	right: 100px;
+	top: 25px;
+	text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	float: right;
+    display: block;
+    padding: 8px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777777;
+	
+}
+
+.maincontent {
+	background-image: url("basic-portfolio/assets/images/sakura.png");
+}
